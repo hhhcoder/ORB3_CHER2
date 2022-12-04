@@ -1,0 +1,12 @@
+0
+average mvImageDealCost: 13.486150, 12.777046, 2.926809, 
+average mvInitialCost: 0.106880, 0.009322, 0.217413, 
+average mvTrackCost: 0.041094, 0.026505, 0.135441, 
+average mvLocalMapInsertKfCost: 6.652098, 6.156231, 2.393825, 
+average mvLocalMapIMU2ndOptCost: 54.039612, 52.812701, 16.460953, 
+average mvLocalMapIMU3rdOptCost: 6.972137, 7.037552, 2.969355, 
+average mvLocalMapMergeKfCost: 5.611484, 4.409357, 3.600679, 
+average mvLocalMapMergeMapPointCost: 0.103326, 0.105244, 0.050201, 
+average mvLoopDetectCost: 1.848318, 0.447189, 2.774039, 
+no LoopMergeCost
+no EssentialGraphOptCost
